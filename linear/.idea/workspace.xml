@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd35dba-7354-4d7c-b884-7a9108bacf99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pr7/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr7/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr7/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr7/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr7/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson23/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/ceredne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/cikl/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/diapazon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/lesson20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/lesson202/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/parni/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treugolniki/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treugolniki/fourth/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treugolniki/third/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/treugolniki/Fifth/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state>
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -262,7 +244,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602591504338" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602591933264" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -697,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/treugolniki/Fifth/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
