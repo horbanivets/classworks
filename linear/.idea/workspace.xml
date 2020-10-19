@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd35dba-7354-4d7c-b884-7a9108bacf99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pr6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr6/Parnichisla/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr6/cikl/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr6/seredne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/Lesson25/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/Lesson25/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/lesson26/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/lesson27/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/lesson27/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +23,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/massivy/lesson26/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,10 +122,15 @@
         <option value="$PROJECT_DIR$/src/treugolniki/third/Main.java" />
         <option value="$PROJECT_DIR$/src/treugolniki/fourth/Main.java" />
         <option value="$PROJECT_DIR$/src/treugolniki/first/Main.java" />
-        <option value="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" />
         <option value="$PROJECT_DIR$/src/Pr6/cikl/main.java" />
         <option value="$PROJECT_DIR$/src/Pr6/seredne/Main.java" />
         <option value="$PROJECT_DIR$/src/Pr6/Parnichisla/Main.java" />
+        <option value="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" />
+        <option value="$PROJECT_DIR$/src/massivy/Lesson25/Main.java" />
+        <option value="$PROJECT_DIR$/src/massivy/Lesson25/Main2.java" />
+        <option value="$PROJECT_DIR$/src/massivy/lesson26/Main.java" />
+        <option value="$PROJECT_DIR$/src/massivy/lesson27/Main.java" />
+        <option value="$PROJECT_DIR$/src/massivy/lesson27/Main2.java" />
       </list>
     </option>
   </component>
@@ -91,6 +147,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,51 +165,23 @@
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loops" type="462c0819:PsiDirectoryNode" />
+              <item name="massivy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loops" type="462c0819:PsiDirectoryNode" />
-              <item name="ceredne" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loops" type="462c0819:PsiDirectoryNode" />
-              <item name="cikl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loops" type="462c0819:PsiDirectoryNode" />
-              <item name="parni" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pr6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="treugolniki" type="462c0819:PsiDirectoryNode" />
+              <item name="massivy" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson27" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602592838430" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603105681287" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,13 +195,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.parni.Main" />
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massivy.lesson26.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.parni.*" />
+          <option name="PATTERN" value="massivy.lesson26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="treugolniki.first.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massivy.Lesson25.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="treugolniki.first.*" />
+          <option name="PATTERN" value="massivy.Lesson25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +223,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="treugolniki.Fifth.Main" />
+      <option name="MAIN_CLASS_NAME" value="massivy.lesson27.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="treugolniki.Fifth.*" />
+          <option name="PATTERN" value="massivy.lesson27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massivy.Lesson25.Main2" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="massivy.Lesson25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +248,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson23.Main4" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massivy.lesson27.Main2" />
       <module name="linear" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 7 1 6 1 8 2 7 3 7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson23.*" />
+          <option name="PATTERN" value="massivy.lesson27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +288,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26258206" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26586434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -266,7 +297,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49671772" weight="0.31551364" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49671772" weight="0.20545073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,13 +345,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson4/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -513,13 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/treugolniki/Fifth/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/loops/diapazon/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -615,6 +632,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/treugolniki/Fifth/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson26/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,8 @@ public class Main {
     public static void main(String[] args) {
         int r1 = 4;
         int r2 = 6;
-        int c = r2 - r1;
+        int c;
+        c = r2 - r1;
         for (int i = 0; i < r1; i++) {
             for (int f = r1+c; f > i; f--) {
                 System.out.print(" ");
