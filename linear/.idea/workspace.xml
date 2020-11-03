@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd35dba-7354-4d7c-b884-7a9108bacf99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/massivy/Lesson25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/massivy/Lesson25/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/massivy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/massivy/lesson26/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/massivy/lesson27/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/massivy/lesson27/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Main1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Main2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/lesson29/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/lesson29/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/lesson29/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/massivy/lesson29/Main4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/lesson27/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/massivy/lesson27/Main2.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +24,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/massivy/lesson26/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -37,16 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/massivy/lesson26/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -54,17 +55,65 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pr9/Main1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main2.java">
+        <entry file="file://$PROJECT_DIR$/src/Pr9/Main2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="187">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controlwork1/Cw2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson23/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson23/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -84,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lesson3/Main.java" />
-        <option value="$PROJECT_DIR$/src/lesson4/main.java" />
         <option value="$PROJECT_DIR$/src/lesson5/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson6/Main.java" />
         <option value="$PROJECT_DIR$/src/task1/Main.java" />
@@ -131,6 +178,12 @@
         <option value="$PROJECT_DIR$/src/massivy/lesson26/Main.java" />
         <option value="$PROJECT_DIR$/src/massivy/lesson27/Main.java" />
         <option value="$PROJECT_DIR$/src/massivy/lesson27/Main2.java" />
+        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main2.java" />
+        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main.java" />
+        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main3.java" />
+        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main4.java" />
+        <option value="$PROJECT_DIR$/src/Pr9/Main1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Pr9/Main2/Main.java" />
       </list>
     </option>
   </component>
@@ -147,8 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +216,27 @@
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controlwork1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="massivy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="massivy" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="massivy" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson26" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
@@ -174,14 +245,36 @@
               <item name="massivy" type="462c0819:PsiDirectoryNode" />
               <item name="lesson27" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="massivy" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson29" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pr9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pr9" type="462c0819:PsiDirectoryNode" />
+              <item name="Main2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1603105681287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604410563170" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,13 +288,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pr9.Main1.Main" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pr9.Main1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="massivy.lesson26.Main" />
+      <option name="MAIN_CLASS_NAME" value="Pr9.Main2.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="massivy.lesson26.*" />
+          <option name="PATTERN" value="Pr9.Main2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,38 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="massivy.Lesson25.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massivy.lesson29.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="massivy.Lesson25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="massivy.lesson27.Main" />
-      <module name="linear" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="massivy.lesson27.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="massivy.Lesson25.Main2" />
-      <module name="linear" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="massivy.Lesson25.*" />
+          <option name="PATTERN" value="massivy.lesson29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,13 +342,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massivy.lesson29.Main3" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="massivy.lesson29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="massivy.lesson29.Main4" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="massivy.lesson29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -287,8 +393,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26586434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27680525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +404,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49671772" weight="0.20545073" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49671772" visible="true" weight="0.20545073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,43 +452,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson4/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/branching/lesson13/hgfh/main.java" />
-    <entry file="file://$PROJECT_DIR$/src/branching/lesson13/hgfh/lesson13/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/branching/f.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/branching/lesson13/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -418,20 +488,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/loops/cikl.java" />
-    <entry file="file://$PROJECT_DIR$/src/lesson23/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson23/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson23/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -443,13 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlwork1/Cw2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -649,38 +698,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main2.java">
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Pr9/Ex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson26/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main2.java">
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="544">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pr9/Main1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson23/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson23/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/lesson26/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controlwork1/Cw2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pr9/Main2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
