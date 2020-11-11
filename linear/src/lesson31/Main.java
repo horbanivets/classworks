@@ -2,6 +2,7 @@ package lesson31;
 
 public class Main {
     public static void main(String[] args) {
+        int count = 0;
         int [] m = new int[1+(int)(Math.random() * 10)];
         for(int i = 0,n=m.length; i < n; i++) {
             m[i] = (int) (Math.random() * 100*Math.pow(-1,i));
@@ -35,10 +36,26 @@ public class Main {
 
         int [] m3 = new int[m.length+m1.length];
         for (int i = 0,n = m3.length; i < n; i++) {
-            if (i<m1.length) {
+            if (i<m.length) {
                 m3[i] = m[i];
             }else{
-                m3[i]= m1[i];
+                m3[i]= m1[i- m.length];
+            }
+        }
+        for (int t:m3) {
+            System.out.print(t + " ");
+        }
+        System.out.println();
+
+        for (int t:m3) {
+            if (a > a1){
+                if (a1 < t & t < a){
+                    count++;
+                }
+            }else{
+                if (a < t & t < a1){
+                    count++;
+                }
             }
         }
     }

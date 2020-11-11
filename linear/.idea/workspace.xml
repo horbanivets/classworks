@@ -1,37 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/treugolniki/third/Main.java" line="4" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="acd35dba-7354-4d7c-b884-7a9108bacf99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pr10/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr10/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr11/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr11/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr11/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson31/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bolb/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bolb/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/META-INF/linear.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/Parnichisla/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/Parnichisla/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/cikl/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/cikl/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/seredne/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/seredne/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/f.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/f.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson13/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson13/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson14/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson15/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson15/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson16/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson16/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/pryamougolniki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/pryamougolniki/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/swichcase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/swichcase/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Example2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Example2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson4/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson4/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/ceredne/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/ceredne/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/cikl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/cikl/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/diapazon/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/diapazon/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/lesson20/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/lesson20/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/lesson202/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/lesson202/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/parni/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/parni/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/lesson26/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson26/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/lesson27/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson27/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/task1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/task1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/first/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/first/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/fourth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/fourth/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/second/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/second/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/third/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/third/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pr9/Main2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pr9/Main2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31/Main.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson31/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,158 +73,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/branching/lesson14/Main.java" />
-        <option value="$PROJECT_DIR$/src/branching/lesson15/Main.java" />
-        <option value="$PROJECT_DIR$/src/branching/lesson16/Main.java" />
-        <option value="$PROJECT_DIR$/src/branching/swichcase/Main.java" />
-        <option value="$PROJECT_DIR$/src/branching/pryamougolniki/Main.java" />
-        <option value="$PROJECT_DIR$/src/controlwork1/Main.java" />
-        <option value="$PROJECT_DIR$/src/controlwork1/Example2.java" />
-        <option value="$PROJECT_DIR$/src/controlwork1/Cw1.java" />
-        <option value="$PROJECT_DIR$/src/controlwork1/Cw2.java" />
-        <option value="$PROJECT_DIR$/src/loops/Main.java" />
-        <option value="$PROJECT_DIR$/src/loops/lesson20/Main.java" />
-        <option value="$PROJECT_DIR$/src/loops/lesson202/Main.java" />
-        <option value="$PROJECT_DIR$/src/loops/diapazon/Main.java" />
-        <option value="$PROJECT_DIR$/src/loops/parni/Main.java" />
-        <option value="$PROJECT_DIR$/src/loops/cikl/Main.java" />
-        <option value="$PROJECT_DIR$/src/loops/ceredne/Main.java" />
-        <option value="$PROJECT_DIR$/src/lesson23/Main.java" />
-        <option value="$PROJECT_DIR$/src/lesson23/Main2.java" />
-        <option value="$PROJECT_DIR$/src/lesson23/Main3.java" />
-        <option value="$PROJECT_DIR$/src/lesson23/Main4.java" />
-        <option value="$PROJECT_DIR$/src/Pr7/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Pr7/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Pr7/Main3.java" />
-        <option value="$PROJECT_DIR$/src/Pr7/Main4.java" />
-        <option value="$PROJECT_DIR$/src/Pr7/Main5.java" />
-        <option value="$PROJECT_DIR$/src/treugolniki/second/Main.java" />
-        <option value="$PROJECT_DIR$/src/treugolniki/third/Main.java" />
-        <option value="$PROJECT_DIR$/src/treugolniki/fourth/Main.java" />
-        <option value="$PROJECT_DIR$/src/treugolniki/first/Main.java" />
-        <option value="$PROJECT_DIR$/src/Pr6/cikl/main.java" />
-        <option value="$PROJECT_DIR$/src/Pr6/seredne/Main.java" />
-        <option value="$PROJECT_DIR$/src/Pr6/Parnichisla/Main.java" />
-        <option value="$PROJECT_DIR$/src/treugolniki/Fifth/Main.java" />
-        <option value="$PROJECT_DIR$/src/massivy/Lesson25/Main.java" />
-        <option value="$PROJECT_DIR$/src/massivy/Lesson25/Main2.java" />
-        <option value="$PROJECT_DIR$/src/massivy/lesson26/Main.java" />
-        <option value="$PROJECT_DIR$/src/massivy/lesson27/Main.java" />
-        <option value="$PROJECT_DIR$/src/massivy/lesson27/Main2.java" />
-        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main2.java" />
-        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main.java" />
-        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main3.java" />
-        <option value="$PROJECT_DIR$/src/massivy/lesson29/Main4.java" />
-        <option value="$PROJECT_DIR$/src/Pr9/Main1/Main.java" />
-        <option value="$PROJECT_DIR$/src/Pr9/Main2/Main.java" />
-        <option value="$PROJECT_DIR$/src/Pr9/Main4/Main.java" />
-        <option value="$PROJECT_DIR$/src/Pr10/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Pr10/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Pr11/Main1.java" />
-        <option value="$PROJECT_DIR$/src/Pr11/Mein.java" />
-        <option value="$PROJECT_DIR$/src/Pr11/Main2.java" />
-        <option value="$PROJECT_DIR$/src/lesson31/Main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
-  </component>
+  <component name="ProjectId" id="1k6OpgCCNYmP59dtF7QbCcAAUcw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="controlwork1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson31" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="massivy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="massivy" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="massivy" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson26" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="massivy" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="massivy" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson29" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604483672398" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604484257928" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bolb.Main" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bolb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson31.Main" />
       <module name="linear" />
@@ -208,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr11.Main1" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bolb.Main1" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pr11.*" />
+          <option name="PATTERN" value="Bolb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,19 +132,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Pr11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="massivy.lesson29.Main3" />
-      <module name="linear" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="massivy.lesson29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,13 +154,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main2 (1)" />
         <item itemvalue="Application.Mein" />
-        <item itemvalue="Application.Main1 (1)" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -295,421 +199,51 @@
       <option name="project" value="LOCAL" />
       <updated>1604411481403</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="рщкифтшмуеы">
+      <created>1604483648289</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604483648290</updated>
+    </task>
+    <task id="LOCAL-00004" summary="рщкифтшмуеы">
+      <created>1604483707124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604483707125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2833698" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49671772" visible="true" weight="0.20545073" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50328225" side_tool="true" weight="0.31551364" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32914045" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27680525" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49671772" visible="true" weight="0.20545073" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50328225" side_tool="true" weight="0.31551364" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32914045" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="рщкифтшмуеы" />
     <option name="LAST_COMMIT_MESSAGE" value="рщкифтшмуеы" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Pr7/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr7/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/branching/pryamougolniki/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/lesson20/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlwork1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/treugolniki/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/treugolniki/third/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/treugolniki/second/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/treugolniki/fourth/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/treugolniki/first/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/diapazon/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/lesson202/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr7/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr7/Main5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/cikl/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr6/seredne/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr6/cikl/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/parni/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr6/Parnichisla/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/ceredne/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/treugolniki/Fifth/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Pr9/Ex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson27/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr9/Main1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson23/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr10/Ex.java" />
-    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson26/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/Lesson25/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr9/Main4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr10/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr10/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr9/Main2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/controlwork1/Cw2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr11/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr11/Mein.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr11/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pr11/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson23/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson23/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson23/Main4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/massivy/lesson29/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson31/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="331" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1605017858231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="331" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605017858231" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1605019776655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776655" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1605019776655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776655" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1605019776654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776654" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1605019776655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776655" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1605086613508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605086613508" />
   </component>
 </project>

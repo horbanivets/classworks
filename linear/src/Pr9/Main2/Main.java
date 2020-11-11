@@ -1,7 +1,5 @@
 package Pr9.Main2;
 
-import com.oracle.xmlns.internal.webservices.jaxws_databinding.SoapBindingParameterStyle;
-
 import java.util.Scanner;
 
 public class Main {
