@@ -2,61 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd35dba-7354-4d7c-b884-7a9108bacf99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bolb/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bolb/m/Zadacha3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bolb/m/Zadacha7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bolb/m/zadach10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/META-INF/linear.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/Parnichisla/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/Parnichisla/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/cikl/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/cikl/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr6/seredne/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr6/seredne/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/Pr7/Main5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/Pr7/Main5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/f.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/f.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson13/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson13/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson14/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson14/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson15/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson15/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/lesson16/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/lesson16/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/pryamougolniki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/pryamougolniki/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/branching/swichcase/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/branching/swichcase/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Cw2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Example2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Example2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/controlwork1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/controlwork1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson23/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson23/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson4/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson4/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson5/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/lesson7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/lesson7/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/ceredne/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/ceredne/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/cikl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/cikl/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/diapazon/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/diapazon/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/lesson20/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/lesson20/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/lesson202/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/lesson202/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/loops/parni/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/loops/parni/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/Lesson25/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/lesson26/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson26/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/massivy/lesson27/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson27/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/task1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/task1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/Fifth/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/first/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/first/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/fourth/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/fourth/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/second/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/second/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linear/treugolniki/third/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linear/treugolniki/third/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pr9/Main2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pr9/Main2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson31/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,26 +36,13 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604484257928" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.zadach10">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bolb.Main" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Bolb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson31.Main" />
-      <module name="linear" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr11.Main2" />
+    <configuration name="Zadacha3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bolb.m.Zadacha3" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pr11.*" />
+          <option name="PATTERN" value="Bolb.m.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +76,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mein" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr11.Mein" />
+    <configuration name="Zadacha7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bolb.m.Zadacha7" />
       <module name="linear" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pr11.*" />
+          <option name="PATTERN" value="Bolb.m.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadach10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bolb.m.zadach10" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bolb.m.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadach10" />
+        <item itemvalue="Application.Zadacha3" />
+        <item itemvalue="Application.Zadacha7" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2 (1)" />
-        <item itemvalue="Application.Mein" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604483707125</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="рщкифтшмуеы">
+      <created>1605086649390</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605086649390</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,26 +178,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="рщкифтшмуеы" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="559" y="133" key="#Notifications" timestamp="1605086695898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="133" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1605086695898" />
     <state x="331" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1605017858231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="331" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605017858231" />
-    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1605019776655">
+    <state x="555" y="0" key="CommitChangelistDialog2" timestamp="1605086639934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776655" />
-    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1605019776655">
+    <state x="555" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605086639934" />
+    <state width="914" height="163" key="GridCell.Tab.0.bottom" timestamp="1605092823359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776655" />
-    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1605019776654">
+    <state width="914" height="163" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605092823359" />
+    <state width="914" height="163" key="GridCell.Tab.0.center" timestamp="1605092823359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776654" />
-    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1605019776655">
+    <state width="914" height="163" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605092823359" />
+    <state width="914" height="163" key="GridCell.Tab.0.left" timestamp="1605092823359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605019776655" />
+    <state width="914" height="163" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605092823359" />
+    <state width="914" height="163" key="GridCell.Tab.0.right" timestamp="1605092823359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="163" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605092823359" />
+    <state x="559" y="207" key="Vcs.Push.Dialog.v2" timestamp="1605086654909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="207" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605086654909" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1605086613508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
