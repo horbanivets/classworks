@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd35dba-7354-4d7c-b884-7a9108bacf99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Bolb/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Bolb/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr10/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr10/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr11/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr11/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr11/Main3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr9/Ex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr9/Main1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr9/Main2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/Pr9/Main4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson29/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson29/Main2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson29/Main3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/linear/massivy/lesson29/Main4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/calculator/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/calculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/calculator/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/calculator/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/object1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/object1/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bolb/incaps/object1/Wheels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pr17/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr18/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bolb/incaps/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bolb/m/Zadacha3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bolb/Zadachi/Zadacha3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bolb/m/Zadacha7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bolb/Zadachi/Zadacha7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bolb/m/zadach10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bolb/Zadachi/zadach10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pr17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pr17/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,12 +14,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Pr17/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="116">
+              <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Pr18/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Pr17/Main.java" />
+        <option value="$PROJECT_DIR$/src/Pr18/Main.java" />
       </list>
     </option>
   </component>
@@ -106,6 +91,12 @@
               <item name="linear" type="b2602c69:ProjectViewProjectNode" />
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lesson31" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -113,6 +104,12 @@
               <item name="linear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Pr17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="linear" type="b2602c69:ProjectViewProjectNode" />
+              <item name="linear" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pr18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,7 +124,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607943637366" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607947690211" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -142,7 +139,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pr18.Main" />
+      <module name="linear" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pr18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pr17.Main" />
       <module name="linear" />
@@ -182,19 +192,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadacha7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bolb.Zadachi.Zadacha7" />
-      <module name="linear" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bolb.Zadachi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="zadach10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bolb.Zadachi.zadach10" />
       <module name="linear" />
@@ -210,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.zadach10" />
         <item itemvalue="Application.Zadacha3" />
-        <item itemvalue="Application.Zadacha7" />
       </list>
     </recent_temporary>
   </component>
@@ -290,24 +287,27 @@
       <option name="project" value="LOCAL" />
       <updated>1605528894437</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hgdsap">
+      <created>1607943781924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607943781925</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32914045" />
-      <window_info anchor="bottom" id="Messages" weight="0.32914045" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32914045" />
@@ -315,14 +315,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010941" side_tool="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989059" weight="0.32914045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -392,8 +396,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pr17/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="116">
+          <caret line="20" column="81" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson4/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pr18/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

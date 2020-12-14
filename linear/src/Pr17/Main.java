@@ -8,17 +8,19 @@ public class Main{
     public static void main(String[]args){
 
         GregorianCalendar d =new GregorianCalendar();
+        d.set(Calendar.YEAR,2017);
+        d.set(Calendar.DAY_OF_MONTH,26);
         int today=d.get(Calendar.DAY_OF_MONTH);
-
+        d.set(Calendar.MONTH,Calendar.MAY);
         int month=d.get(Calendar.MONTH);
 
         d.set(Calendar.DAY_OF_MONTH,1);
 
         int weekday=d.get(Calendar.DAY_OF_WEEK);
 
-        System.out.println("Sun   Mon   Tue   Wed   Thu   Fri   Sat");
+        System.out.println("Mon   Tue   Wed   Thu   Fri   Sat   Sun");//3 пробела
 
-        for(int i=Calendar.SUNDAY;i<weekday;i++){
+        for(int i=Calendar.MONDAY;i<weekday;i++){
             System.out.print("      ");//6spaces
         }
 
@@ -40,7 +42,7 @@ public class Main{
 
         }
 
-        if(weekday==Calendar.SATURDAY){
+        if(weekday==Calendar.SUNDAY){
 
         System.out.println();
 
