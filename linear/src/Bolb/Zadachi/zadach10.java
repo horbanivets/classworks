@@ -1,4 +1,4 @@
-package Bolb.m;
+package Bolb.Zadachi;
 
 public class zadach10 {
     public static void main(String[] args) {
